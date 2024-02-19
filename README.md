@@ -1,6 +1,6 @@
 # KNN and Decision Tree Modeling
 
-Use scikit-learn to train a DecisionTreeClassifier and KNeighborsClassifier on Adult Income data.
+Use scikit-learn to train a DecisionTreeClassifier and KNeighborsClassifier on Adult Income data. Data found in adult_subsample.csv.
 
 ## Finding Best K Value
 
